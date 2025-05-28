@@ -1,0 +1,31 @@
+.issue-body {
+    padding: 10px;
+}
+.issue-table {
+    border-collapse: collapse ;
+    width: 1000px;
+    margin: 10px;
+    text-align: left;
+}
+.issue-table td,th {
+    padding: 10px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+.issue-btn {
+    padding: 10px;
+    color: white;
+    background-color: #0057CB;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    height: auto;
+    text-align: center;
+    font-size: 15px;
+}
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+}
