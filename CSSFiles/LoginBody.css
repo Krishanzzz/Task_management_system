@@ -1,0 +1,49 @@
+.body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #DAEBFF;
+    margin-top: 2px;
+}
+.login-container {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    width: 500px;
+    text-wrap: wrap;
+}
+label{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+input[type=email],input[type=password]{
+    width: 450px;
+    padding: 10px;
+    border-radius: 22px;
+    border: none;
+}
+.login-btn,.signup-btn{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 480px;
+    padding: 10px;
+    border-radius: 22px;
+    color: white;
+    background-color: #0057CB;
+    border: none;
+}
+.signup-btn:hover,.login-btn:hover{
+    background-color: #0069f0;
+    cursor: pointer;
+    box-shadow: 5px 5px 5px #000;
+    transition: 1s;
+
+}
+.dont-acc{
+    font-weight: bold;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+}
