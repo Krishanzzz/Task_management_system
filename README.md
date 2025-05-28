@@ -1,1 +1,2 @@
 # Task_management_system
+The React frontend of the task management system offers a role-based interface for Team Leads and Team Members to manage projects and tasks efficiently. It includes dashboards, a Kanban-style board, task creation and assignment, code submission and review, team management, and project summaries. Built with React.js and React Router, it ensures a responsive and user-friendly experience.
