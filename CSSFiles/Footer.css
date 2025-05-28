@@ -1,0 +1,19 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+}
+img{
+    height: 50px;
+    width: 50px;
+}
+.social-media {
+    display: flex;
+    gap: 10px;
+}
+.copyright{
+    font-size: 15px;
+
+}
